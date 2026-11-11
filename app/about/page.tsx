@@ -1,5 +1,5 @@
 const links = [
-  { label: "X / Twitter", href: "https://x.com/kymu___" },
+  { label: "X / Twitter", href: "https://x.com/kbksi_" },
   { label: "HackerOne", href: "https://hackerone.com/kbksi" },
   { label: "Bugcrowd", href: "https://bugcrowd.com/h/kymu" },
   { label: "YesWeHack", href: "https://yeswehack.com/hunters/kymu" },
