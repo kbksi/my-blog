@@ -20,8 +20,8 @@ export default function ContactPage() {
           },
           {
             label: "X / Twitter",
-            value: "@kymu___",
-            href: "https://x.com/kymu___",
+            value: "@kbksi_",
+            href: "https://x.com/kbksi_",
           },
           {
             label: "LinkedIn",
