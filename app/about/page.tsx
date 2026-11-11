@@ -1,6 +1,6 @@
 const links = [
   { label: "X / Twitter", href: "https://x.com/kymu___" },
-  { label: "HackerOne", href: "https://hackerone.com/kbrx" },
+  { label: "HackerOne", href: "https://hackerone.com/kbksi" },
   { label: "Bugcrowd", href: "https://bugcrowd.com/h/kymu" },
   { label: "YesWeHack", href: "https://yeswehack.com/hunters/kymu" },
   { label: "Email", href: "mailto:kimuxsxs@gmail.com" },
